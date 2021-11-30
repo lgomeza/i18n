@@ -1,0 +1,10 @@
+{
+	"Position": "Position",
+	"Company": "Company",
+	"Salary.title": "Salary",
+  "Salary.million": "{salary, plural, one {# million} other {# million}}",
+	"City": "City",
+	"PublicationDate": "Publication Date",
+	"Views": "No. of views",
+  "TableHeaderColor": "dark"
+}
